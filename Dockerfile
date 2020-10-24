@@ -7,4 +7,4 @@ COPY src.js ./
 
 RUN echo '2' && cat src.js
 
-CMD ["node, src"]
+CMD node src
