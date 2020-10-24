@@ -1,7 +1,7 @@
 FROM node:15-alpine
 WORKDIR /app
 
-RUN echo '1' && cat src.js
+# RUN echo '1' && cat src.js
 
 COPY src.js ./
 
