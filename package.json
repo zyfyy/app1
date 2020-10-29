@@ -1,0 +1,23 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "- to learn to write dockerfile - to learn to run docker image - to learn to publish docker",
+  "main": "src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyfyy/app1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyfyy/app1/issues"
+  },
+  "homepage": "https://github.com/zyfyy/app1#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
